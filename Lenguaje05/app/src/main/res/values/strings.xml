@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lenguaje05</string>
+    <string name="titulo_lenguaje" >Lenguaje Programación</string>
+    <string name="caracteristica_lenguaje">Características</string>
+</resources>
