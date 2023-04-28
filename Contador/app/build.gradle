@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.contador_01'
+    namespace 'mx.edu.tecmm.moviles.contador'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.contador_01"
+        applicationId "mx.edu.tecmm.moviles.contador"
         minSdk 24
         targetSdk 33
         versionCode 1

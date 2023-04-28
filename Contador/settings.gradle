@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Contador_01"
+rootProject.name = "Contador"
 include ':app'

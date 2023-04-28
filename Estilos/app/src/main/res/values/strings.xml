@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Estilos</string>
+    <string name="negra">Negritas</string>
+    <string name="cursiva">Cursiva</string>
+    <string name="nombre">Ingrese un nombre</string>
+    <string name="Estilos">Estilos</string>
+</resources>
