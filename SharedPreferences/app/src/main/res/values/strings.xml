@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="perfil">Perfil</string>
+    <string name="Datos">Datos del Usuario</string>
+</resources>
