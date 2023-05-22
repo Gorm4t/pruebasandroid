@@ -39,7 +39,7 @@ class Editar : AppCompatActivity() {
         val nombre = txtNombre.text.toString()
         val apellido = txtApellido.text.toString()
         val edad = txtEdad.text.toString()
-        val persona = Persona(nombre,apellido,edad,id1.toString())
+        val persona = Persona(nombre,apellido,edad,id1)
         Auxiliar.listPersona[id1] = persona
         Toast.makeText( this, "Usuario editado" , Toast.LENGTH_SHORT).show()
 

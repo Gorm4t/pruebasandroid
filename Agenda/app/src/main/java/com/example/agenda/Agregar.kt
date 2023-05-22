@@ -24,7 +24,7 @@ class AgregarActivity : AppCompatActivity() {
         val nombre = txtNombre.text.toString()
         val apellido = txtApellido.text.toString()
         val edad = txtEdad.text.toString()
-        val id = (Auxiliar.listPersona.size).toString()
+        val id = (Auxiliar.listPersona.size)
         val persona = Persona(nombre,apellido,edad,id)
         Auxiliar.listPersona.add(persona)
         Toast.makeText( this, "Registrado" , Toast.LENGTH_SHORT).show()

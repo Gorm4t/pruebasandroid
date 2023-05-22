@@ -1,3 +1,7 @@
 package com.example.agenda
-
-data class Persona(val nombre:String, val apellido:String, val edad: String, val id:String)
+import com.google.gson.annotations.SerializedName
+data class Persona(@SerializedName ("nombre") val nombre:String,
+                   @SerializedName ("apellido") val apellido:String,
+                   @SerializedName ("edad") val edad:String,
+                   @SerializedName ("id") val id: Int
+)
