@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="Agenda">Agenda</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Edad">Edad</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Editar">Editar</string>
+</resources>
